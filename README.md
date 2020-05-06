@@ -6,7 +6,8 @@ ChromiumOS libevdev.  This has been renamed to libevdevc to avoid conflicts with
 Compile
 ==========
 
-``make
+```
+make
 
 sudo make install
-``
+```
